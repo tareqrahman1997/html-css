@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(0, 255, 55);
+    text-align: center;
+    height: 10px;
+    margin: 10px;
+    padding: 20px;
+    text-overflow: initial;
+}
+.name{
+    background-color: rgb(0, 255, 42);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+
+}
